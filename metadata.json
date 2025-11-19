@@ -1,0 +1,7 @@
+{
+  "name": "FairShare - AI Bill Splitter",
+  "description": "Effortlessly split bills by scanning receipts with Gemini. Assign items, share costs, and calculate tips automatically.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

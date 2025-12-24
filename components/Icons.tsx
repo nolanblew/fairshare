@@ -1,8 +1,10 @@
+
 import React from 'react';
 import { 
   Camera, 
   Upload, 
   Plus, 
+  Minus,
   Trash2, 
   User, 
   Check, 
@@ -12,21 +14,30 @@ import {
   ArrowLeft, 
   Receipt,
   Edit2,
-  DollarSign
+  DollarSign,
+  History,
+  Clock,
+  Link,
+  Gift
 } from 'lucide-react';
 
 export { 
   Camera, 
   Upload, 
   Plus, 
+  Minus,
   Trash2, 
   User, 
   Check, 
   ChevronRight, 
-  ChevronDown,
+  ChevronDown, 
   ChevronUp,
   ArrowLeft, 
-  Receipt,
+  Receipt, 
   Edit2,
-  DollarSign
+  DollarSign,
+  History,
+  Clock,
+  Link,
+  Gift
 };
